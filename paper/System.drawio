@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T16:17:02.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4867.0 Safari/537.36 Edg/100.0.1169.1" etag="kHxdBMN7JnIDT6Dk1HtM" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-27T16:17:21.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4867.0 Safari/537.36 Edg/100.0.1169.1" etag="IuCqg4-CQxUQ98HYQmC5" version="16.6.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="692" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="uwLOlBebRurgxs3dPctE-24" value="&lt;font style=&quot;font-size: 11px&quot;&gt;可视化路网标注工具&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="350" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uwLOlBebRurgxs3dPctE-25" value="数据标注服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="uwLOlBebRurgxs3dPctE-25" value="数据标注服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="340" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uwLOlBebRurgxs3dPctE-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
